@@ -10,6 +10,8 @@ import os
 
 load_dotenv()
 
+
+print("hello")
 st.title("📄 PDF Q&A Chatbot")
 
 # Upload PDF
