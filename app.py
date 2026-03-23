@@ -12,6 +12,7 @@ load_dotenv()
 
 
 print("hello")
+print("hello")
 st.title("📄 PDF Q&A Chatbot")
 
 # Upload PDF
